@@ -25,20 +25,20 @@
 - Time series forecasting  
 - Libraries used: `pandas`, `numpy`, `scipy`
 
-### 🧠 Classification of Critical/Conspiratorial Texts Using Transformers
+### 🧠 [Classification of Critical/Conspiratorial Texts Using Transformers](https://github.com/paulaariasf/text-classification-transformers)
 - Embedding generation with `SpaCy`  
 - Experimentation with `BERT`, `DistilBERT`, `RoBERTa`  
 - Architecture modification: `RoBERTa` + convolutional layers
 
-### 🌕 Lunar Lander AI Simulation
+### 🌕 [Lunar Lander AI Simulation](https://github.com/paulaariasf/Reinforcement-Learning-GenerativeAI)
 - Comparison of **evolutionary algorithms** and **reinforcement learning** techniques  
 - Implementation using **Deep Q-Network**
 
-### 🎨 Image Colorization Using Generative Techniques
+### 🎨 [Image Colorization Using Generative Techniques](https://github.com/paulaariasf/Reinforcement-Learning-GenerativeAI)
 - Application of **Generative Adversarial Networks (GANs)**  
 - Focused on restoring and colorizing grayscale images
 
-### ⚡ Parallel Implementation of Logistic Regression
+### ⚡ [Parallel Implementation of Logistic Regression](https://github.com/paulaariasf/Spark-Kafka-OGVD)
 - Supervised machine learning algorithm  
 - Logistic Regression classifier parallelized with **Apache Spark**
 
