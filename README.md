@@ -8,31 +8,7 @@
 
 - 🎓 **Double Bachelor's Degree** in Computer Science and Mathematics
 - 🎓 **Master’s in Machine Learning and Big Data**
-- 💼 **AI & Data Intern** at Inetum – Working on data processing, reporting, and documentation using technologies such as **SAS**  
 - 🔍 Passionate about **NLP**, **Computer Vision** and **Generative Models**
-
----
-
-## 💻 Technologies & Tools
-
-**Languages & Programming:**  
-`Python`, `Java`, `C`, `R`, `SQL`, `SAS`, `Shell`
-
-**Libraries & Frameworks:**  
-`Pandas`, `NumPy`, `Scikit-learn`, `SciPy`, `TensorFlow`, `Matplotlib`, `SpaCy`, `Pymoo`
-
-**AI & ML Specialties:**  
-- Large Language Models (LLMs) & Transformers: `BERT`, `RoBERTa`, `DistilBERT`
-- Computer Vision
-- Evolutionary Algorithms & Reinforcement Learning: `Deep Q-Network`
-- Time Series Forecasting: `ARIMA`, `LSTM`
-- Recommender Systems
-
-**Big Data & Tools:**  
-`Spark`, `Kafka`, `Power BI`, `Excel`, `LaTeX`
-
-**Methodologies:**  
-Agile, Scrum
 
 ---
 
@@ -44,7 +20,7 @@ Agile, Scrum
 - Libraries used: `pandas`, `numpy`, `sklearn`, `matplotlib`  
 - Data visualization and processing for insight generation
 
-### 🔮 Bike Availability Prediction at BiciMAD Stations
+### 📈  Bike Availability Prediction at BiciMAD Stations
 - Modeling with **ARIMA** and **LSTM neural networks**  
 - Time series forecasting  
 - Libraries used: `pandas`, `numpy`, `scipy`
